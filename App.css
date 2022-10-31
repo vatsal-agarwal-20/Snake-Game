@@ -16,7 +16,7 @@
 #scoreBox{
   position: absolute;
   top: 50px;
-  right: 173px;
+  right: 159px;
   font-size: 30px;
   font-weight: bold;
   font-family: 'Quantico', sans-serif;
@@ -24,7 +24,7 @@
 #highScore{
   position: absolute;
   top: 10px;
-  right: 200px;
+  right: 160px;
   font-size: 30px;
   font-weight: bold;
   font-family: 'Quantico', sans-serif;
